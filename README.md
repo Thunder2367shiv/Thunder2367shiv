@@ -1,4 +1,4 @@
-![logo](https://github.com/Thunder2367shiv/Thunder2367shiv/blob/main/apple-touch-icon.png)
+![logo](https://github.com/Thunder2367shiv/Thunder2367shiv/blob/main/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">🚀 Backend Developer | Problem Solver | Open Source Enthusiast</h3>
 
